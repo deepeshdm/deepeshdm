@@ -2,7 +2,7 @@
 <h3 align="center">I am intrested in the topics of Machine Learning and Deep Learning 👨‍💻, am also an Android Developer.</h3>
 
 <p align="center">
-  <img src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" width="600" title="hover text">
+  <img src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" width="550" title="hover text">
 </p>
 
 - Gmail me @ : **deepeshmhatre133@gmail.com**

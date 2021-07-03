@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepeshdm&show_icons=true&locale=en&layout=compact" alt="deepeshdm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshdm&show_icons=true&locale=en" alt="deepeshdm" /></p>
+
+<h6>Disclaimer : The Images and Gifs used belong to their respective owners.</h6>

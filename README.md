@@ -1,6 +1,8 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Deepesh Mhatre</h1>
 <h3 align="center">I am intrested in the topics of Machine Learning and Deep Learning 👨‍💻, am also an Android Developer.</h3>
 
+![](/Gifs/FearlessBewitchedGrouper-size_restricted.gif)
+
 - Gmail me @ : **deepeshmhatre133@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

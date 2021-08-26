@@ -46,10 +46,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshdm&show_icons=true&locale=en" alt="deepeshdm" />
 </p>
 
-<h3 align="left">Connect on Twitter :</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://twitter.com/deepeshmhatredm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepeshmhatredm" height="30" width="40" /></a>
-<h3 align="left"> Mail : deepeshmhatre133@gmail.com</h3>
+<a href="https://twitter.com/deepeshmhatredm" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="deepeshmhatredm" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[deepeshmhatre133@gmail.com]" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="deepeshmhatredm" />
+  </a>
 </p>
 
 <h6>Disclaimer : The Images and Gifs used belong to their respective owners.</h6>

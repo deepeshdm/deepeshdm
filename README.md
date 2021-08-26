@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" width="550" title="hover text">
+  <h6 align="center">(Artificial Neural Network training on Mnist Dataset)</h6>
 </p>
 
 <h3 align="left">Languages and Tools I Use :</h3>

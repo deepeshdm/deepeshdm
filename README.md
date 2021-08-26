@@ -55,10 +55,10 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/deepeshmhatredm" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="deepeshmhatredm" />
+  <img  width="50" height="50" align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="deepeshmhatredm" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[deepeshmhatre133@gmail.com]" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="deepeshmhatredm" />
+  <img width="50" height="50" align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="deepeshmhatredm" />
   </a>
 </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Deepesh</h1>
-<h4 align="center">I am a Data Scientist & Android Developer. I am also highly avid about Machine Learning and Deep Learning.</h4>
+<h4 align="center">I am a Data Scientist & Full Stack Android Developer. I am also highly avid about Machine Learning and Deep Learning.</h4>
 
 <p align="center">
   <img src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" width="550" title="hover text">

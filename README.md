@@ -10,29 +10,29 @@
 
 [tech_tools_anchor]: #--
 
-[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=#007396" alt="Java logo" title="Java" height="31" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=94bbe9" alt="Java logo" title="Java" height="31" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="31" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="31" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=766DB2" alt="Kotlin logo" title="Kotlin" height="31" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/SQL-282C34?logo=SQLite&logoColor=#4479A1" alt="SQL logo" title="CSS3" height="31" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/SQL-282C34?logo=SQLite&logoColor=4479A1" alt="SQL logo" title="CSS3" height="31" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv&logoColor=#5C3EE8" alt="OpenCv logo" title="OpenCV" height="31" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv&logoColor=ff2d23" alt="OpenCv logo" title="OpenCV" height="31" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch&logoColor=#EE4C2C" alt="Pytorch logo" title="Pytorch" height="31" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch&logoColor=EE4C2C" alt="Pytorch logo" title="Pytorch" height="31" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/SkLearn-282C34?logo=scikit-learn&logoColor=#F7931EC" alt="Sklearn logo" title="SkLearn" height="31" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/SkLearn-282C34?logo=scikit-learn&logoColor=F7931EC" alt="Sklearn logo" title="SkLearn" height="31" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Tensorflow-282C34?logo=Tensorflow&logoColor=#FF6F00" alt="Tensorflow logo" title="Tensorflow" height="31" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Tensorflow-282C34?logo=Tensorflow&logoColor=FF6F00" alt="Tensorflow logo" title="Tensorflow" height="31" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=Android&logoColor=#3DDC84" alt="Android logo" title="Android" height="31" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Android-282C34?logo=Android&logoColor=3DDC84" alt="Android logo" title="Android" height="31" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=Firebase&logoColor=#FFCA28" alt="Firebase logo" title="Firebase" height="31" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Firebase-282C34?logo=Firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="31" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/AdobeXD-282C34?logo=AdobeXd&logoColor=#FF61F6" alt="Adobe XD" title="Adobe XD" height="31" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/AdobeXD-282C34?logo=AdobeXd&logoColor=FF61F6" alt="Adobe XD" title="Adobe XD" height="31" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=#430098" alt="Heroku logo" title="Heroku" height="31" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=#6e0cf7" alt="Heroku logo" title="Heroku" height="31" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/VS Code-282C34?logo=VisualStudioCode&logoColor=007ACC" alt="Vs Code logo" title="VS Code" height="31" />][tech_tools_anchor]
 

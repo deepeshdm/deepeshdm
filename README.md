@@ -26,6 +26,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Tensorflow-282C34?logo=Tensorflow&logoColor=FF6F00" alt="Tensorflow logo" title="Tensorflow" height="31" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Tableau-282C34?logo=Tableau&logoColor=E97627" alt="Tableau logo" title="Tableau" height="31" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Android-282C34?logo=Android&logoColor=3DDC84" alt="Android logo" title="Android" height="31" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=Firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="31" />][tech_tools_anchor]
@@ -33,8 +35,6 @@
 [<img src="https://img.shields.io/badge/AdobeXD-282C34?logo=AdobeXd&logoColor=FF61F6" alt="Adobe XD" title="Adobe XD" height="31" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=#6e0cf7" alt="Heroku logo" title="Heroku" height="31" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/VS Code-282C34?logo=VisualStudioCode&logoColor=007ACC" alt="Vs Code logo" title="VS Code" height="31" />][tech_tools_anchor]
 
 
 ## Connect with me

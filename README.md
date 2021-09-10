@@ -8,34 +8,28 @@
 
 ## 🛠  Technologies and Tools I use
 
+<!---This keeps the images aligned side to side-->
 [tech_tools_anchor]: #--
 
-[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=94bbe9" alt="Java logo" title="Java" height="31" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="31" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=766DB2" alt="Kotlin logo" title="Kotlin" height="31" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/SQL-282C34?logo=SQLite&logoColor=4479A1" alt="SQL logo" title="CSS3" height="31" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv&logoColor=ff2d23" alt="OpenCv logo" title="OpenCV" height="31" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch&logoColor=EE4C2C" alt="Pytorch logo" title="Pytorch" height="31" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/SkLearn-282C34?logo=scikit-learn&logoColor=F7931EC" alt="Sklearn logo" title="SkLearn" height="31" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Tensorflow-282C34?logo=Tensorflow&logoColor=FF6F00" alt="Tensorflow logo" title="Tensorflow" height="31" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Tableau-282C34?logo=Tableau&logoColor=E97627" alt="Tableau logo" title="Tableau" height="31" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=Android&logoColor=3DDC84" alt="Android logo" title="Android" height="31" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=Firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="31" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/AdobeXD-282C34?logo=AdobeXd&logoColor=FF61F6" alt="Adobe XD" title="Adobe XD" height="31" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=#6e0cf7" alt="Heroku logo" title="Heroku" height="31" />][tech_tools_anchor]
+<!---------------------------Table Starts from here --------------------------->
 
+| Skill | Technologies| 
+|---|---|
+| Programming Languages | [<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=94bbe9" alt="Java logo" title="Java" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=766DB2" alt="Kotlin logo" title="Kotlin" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/SQL-282C34?logo=&logoColor=4479A1" alt="SQL logo" title="CSS3" height="27" />][tech_tools_anchor] |
+| DataBase | [<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/SQLite-282C34?logo=SQLite&logoColor=003B57" alt="SQLite logo" title="SQLite logo" height="27" />][tech_tools_anchor] |
+| Machine Learning | [<img src="https://img.shields.io/badge/SkLearn-282C34?logo=scikit-learn&logoColor=F7931EC" alt="Sklearn logo" title="SkLearn" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv&logoColor=ff2d23" alt="OpenCv logo" title="OpenCV" height="27" />][tech_tools_anchor] |
+| Deep Learning | [<img src="https://img.shields.io/badge/Tensorflow-282C34?logo=Tensorflow&logoColor=FF6F00" alt="Tensorflow logo" title="Tensorflow" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch&logoColor=EE4C2C" alt="Pytorch logo" title="Pytorch" height="27" />][tech_tools_anchor]  |
+| Big Data | [<img src="https://img.shields.io/badge/Spark-282C34?logo=apache-spark&logoColor=E25A1C" alt="Spark logo" title="Spark" height="27" />][tech_tools_anchor]  Hadoop |
+| Cloud | [<img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=#6e0cf7" alt="Heroku logo" title="Heroku" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Firebase-282C34?logo=Firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="27" />][tech_tools_anchor] |
+| Business Intelligence | [<img src="https://img.shields.io/badge/Tableau-282C34?logo=Tableau&logoColor=E97627" alt="Tableau logo" title="Tableau" height="27" />][tech_tools_anchor] |
+| UI/UX | [<img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F24E1E" alt="Figma" title="Figma Logo" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/AdobeXD-282C34?logo=AdobeXd&logoColor=FF61F6" alt="Adobe XD" title="Adobe XD" height="27" />][tech_tools_anchor] |
+| App Development | [<img src="https://img.shields.io/badge/Android-282C34?logo=Android&logoColor=3DDC84" alt="Android logo" title="Android" height="27" />][tech_tools_anchor]  |
+| Version control | [<img src="https://img.shields.io/badge/GIT-282C34?logo=Git&logoColor=F05032" alt="GIT" title="Git Logo" height="27" />][tech_tools_anchor] |
+| Tools/ IDE | [<img src="https://img.shields.io/badge/Jupyter Notebook-282C34?logo=Jupyter&logoColor=F37626" alt="Jupyter Notebook" title="Jupter Notebook Logo" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/VS Code-282C34?logo=Visual-studio-Code&logoColor=007ACC" alt="VS Code" title="VS Code Logo" height="27" />][tech_tools_anchor]  [<img src="https://img.shields.io/badge/Pycharm-282C34?logo=Pycharm&logoColor=000000" alt="Pycharm" title="Pycharm Logo" height="27" />][tech_tools_anchor] |
+| Operating System | Windows |
+| Hardware | Tesla T4 from Google Colab |
+
+<!---------------------------Table Ends from here --------------------------->
 
 ## Connect with me
 <p align="left">

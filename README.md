@@ -41,6 +41,10 @@
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[deepeshmhatre133@gmail.com]" target="blank">
   <img width="50" height="50" align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="deepeshmhatredm" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/deepeshdm/" target="blank">
+  <img  width="50" height="50" align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
+  </a>
 </p>
 
 

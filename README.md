@@ -28,7 +28,6 @@
 | Version control | [<img src="https://img.shields.io/badge/GIT-282C34?logo=Git&logoColor=F05032" alt="GIT" title="Git Logo" height="27" />][tech_tools_anchor] |
 | Tools/ IDE | [<img src="https://img.shields.io/badge/Jupyter Notebook-282C34?logo=Jupyter&logoColor=F37626" alt="Jupyter Notebook" title="Jupter Notebook Logo" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/VS Code-282C34?logo=Visual-studio-Code&logoColor=007ACC" alt="VS Code" title="VS Code Logo" height="27" />][tech_tools_anchor]  [<img src="https://img.shields.io/badge/Pycharm-282C34?logo=Pycharm&logoColor=000000" alt="Pycharm" title="Pycharm Logo" height="27" />][tech_tools_anchor] |
 | Operating System | [<img src="https://img.shields.io/badge/Windows-282C34?logo=Windows&logoColor=0078D6" alt="Windows" title="Windows Logo" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Ubuntu-282C34?logo=Ubuntu&logoColor=E95420" alt="Ubuntu" title="Ubuntu Logo" height="27" />][tech_tools_anchor] |
-
 | Hardware | Tesla T4 from Google Colab |
 
 <!---------------------------Table Ends from here --------------------------->

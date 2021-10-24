@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 🙋🏼‍♂️, I'm Deepesh</h1>
 
-## About 
+### About 
 - 💻 Full Stack Data Scientist & Android Developer
 - 💡 Science and Engineering enthusiast 
 - 🔭 Research Interests: Deep Learning,Computer Vision,and Artificial General Intelligence.

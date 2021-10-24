@@ -1,5 +1,11 @@
 <h1 align="center">Hi there 🙋🏼‍♂️, I'm Deepesh</h1>
-<h3 align="center">I am a Full Stack Data Scientist & Android Developer. I am also highly avid about Machine Learning and Deep Learning.</h3>
+
+## About 
+- 💻 Full Stack Data Scientist & Android Developer
+- 💡 Science and Engineering enthusiast 
+- 🔭 Research Interests: Deep Learning,Computer Vision,and Artificial General Intelligence.
+- 📃 You can find [my Resume](https://drive.google.com/file/d/1gGV1xqJH66Jc6GqubKA0OC0yhgLCbTqN/view?usp=sharing) here.
+
 
 <p align="center">
   <img src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" width="550" title="hover text">

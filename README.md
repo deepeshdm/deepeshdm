@@ -2,7 +2,7 @@
 
 ### About 
 - 💻 Full Stack Data Scientist & Android Developer
-- 💡 Science and Engineering enthusiast 
+- 💡 Math enthusiast 
 - 🔭 Research Interests: Deep Learning,Computer Vision,and Artificial General Intelligence.
 - 📃 You can find [my Resume](https://drive.google.com/file/d/1gGV1xqJH66Jc6GqubKA0OC0yhgLCbTqN/view?usp=sharing) here.
 

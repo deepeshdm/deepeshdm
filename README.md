@@ -4,7 +4,7 @@
 - 💻 Full Stack Data Scientist
 - 🏳 Skilled in Machine Learning,Big Data Android,Web development.
 - 🔭 Research Interests : Deep Learning , AGI and Human-Robot Collaboration
-- 💡 Math Enthusiast 
+- 💡 Math and Physics Enthusiast 
 - 📃 You can find [my Resume](https://drive.google.com/file/d/1gGV1xqJH66Jc6GqubKA0OC0yhgLCbTqN/view?usp=sharing) here.
 
 ##

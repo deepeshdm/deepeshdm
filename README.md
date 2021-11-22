@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 🙋🏼‍♂️, I'm Deepesh</h1>
 
 ### About 
-- 💻 Full Stack Data Scientist & Android Developer
-- 💡 Math enthusiast 
+- 💻 Full Stack Data Scientist
+- 🏳 Skilled in Machine Learning,Big Data Android,Web development.
 - 🔭 Research Interests : Deep Learning , AGI and Human-Robot Collaboration
+- 💡 Math Enthusiast 
 - 📃 You can find [my Resume](https://drive.google.com/file/d/1gGV1xqJH66Jc6GqubKA0OC0yhgLCbTqN/view?usp=sharing) here.
 
 ##

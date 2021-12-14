@@ -58,6 +58,8 @@
   </a>
 </p>
 
+<!-- Refer - https://github.com/Ashutosh00710/github-readme-activity-graph -->
+![Deepesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepeshdm&theme=rogue)
 
 <a href="https://github.com/deepeshdm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshdm&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Deepesh's GitHub Stats" width="57%" />

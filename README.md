@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 🙋🏼‍♂️, I'm Deepesh</h1>
+<h1 align="center"> Hi there 🙋‍♂️, I'm Deepesh</h1>
 
 ### About 
 - 💻 Full Stack Data Scientist

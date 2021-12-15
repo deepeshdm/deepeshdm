@@ -43,6 +43,16 @@
 
 <!---------------------------Table Ends from here --------------------------->
 
+## 📊 Lets talk stats
+
+<!-- Refer - https://github.com/Ashutosh00710/github-readme-activity-graph -->
+![Deepesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepeshdm&theme=react-dark&area=true)
+
+<a href="https://github.com/deepeshdm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshdm&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=5bcdec&bg_color=0d1117" alt="Deepesh's GitHub Stats" width="57%" />
+</a>
+
+
 ## Connect with me
 <p align="left">
 <a href="https://twitter.com/deepeshmhatredm" target="blank">
@@ -57,13 +67,6 @@
   <img  width="50" height="50" align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
   </a>
 </p>
-
-<!-- Refer - https://github.com/Ashutosh00710/github-readme-activity-graph -->
-![Deepesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepeshdm&theme=react-dark&area=true)
-
-<a href="https://github.com/deepeshdm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshdm&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=5bcdec&bg_color=0d1117" alt="Deepesh's GitHub Stats" width="57%" />
-</a>
 
 
 <h6>Disclaimer : The Images and Gifs used belong to their respective owners.</h6>

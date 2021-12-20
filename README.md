@@ -5,7 +5,7 @@
 - 🏳 Skilled in Machine Learning,Big Data,Android & Web Development.
 - 🔭 Research Interests : Deep Learning , AGI and Human-Robot Collaboration
 - 💡 Math and Physics Enthusiast 
-- 📃 You can find [my Resume](https://drive.google.com/file/d/1gGV1xqJH66Jc6GqubKA0OC0yhgLCbTqN/view?usp=sharing) here.
+- 📃 You can find [my Resume](https://drive.google.com/file/d/1iwx4I-5DO1wUC4hDN3h3Rmho2esk5HoE/view?usp=sharing) here.
 
 ##
 

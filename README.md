@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 🙋‍♂️, I'm Deepesh</h1>
+<h1 align="center"> Hey <img width="5%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"/>  , I'm Deepesh</h1>
 
 ### About 
 - 💻 Full Stack Data Scientist

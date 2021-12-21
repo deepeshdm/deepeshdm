@@ -53,7 +53,7 @@
 </a>
 
 
-## Connect with me
+## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" width="8%"/>
 <p align="left">
 <a href="https://twitter.com/deepeshmhatredm" target="blank">
   <img  width="50" height="50" align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="deepeshmhatredm" />

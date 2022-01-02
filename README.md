@@ -76,11 +76,22 @@
 <!-- Refer - https://github.com/Ashutosh00710/github-readme-activity-graph -->
 ![Deepesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepeshdm&theme=react-dark&area=true&color=ffffff)
 
-<div align="center">
-<a href="https://github.com/deepeshdm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshdm&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=5bcdec&bg_color=0d1117" alt="Deepesh's GitHub Stats" width="57%" />
+
+<p align="left">
+<a href="https://abhigyantrips.dev/">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=deepeshdm&show_icons=true&theme=react&title_color=ffffff&text_color=c9cacc&icon_color=5bcdec&bg_color=0d1117" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshdm&theme=react&ring=ffffff&fire=ffffff&text_color=ffffff&background=0d1117&border=ffffff" />
 </a>
-</div>
+</p>
+
+
+<!-- <p align="left">
+<a href="https://github.com/deepeshdm">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshdm&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=5bcdec&bg_color=0d1117" alt="Deepesh's GitHub Stats" width="49%%" />
+<img width="49%%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshdm&theme=dark&hide_border=false&background=0D1117&border=DDDDDD" />
+</a>
+</p> -->
+
 
 
 <h6>Disclaimer : The Images and Gifs used belong to their respective owners.</h6>

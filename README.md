@@ -16,7 +16,8 @@
 
 </br>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&lines=Full+Stack+Data+Scientist;Full+Stack+Web+Developer;Open+Source+Enthusiast;Nice+to+meet+you+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=25&lines=Software+Engineer+from+India;Full+Stack+Web+Developer;and+Data+Scientist+;Open+Source+Enthusiat;Nice+to+meet+you...)](https://git.io/typing-svg)
+
 - 💻 Full Stack Data Scientist
 - 🏳 Skilled in Machine Learning,Big Data,Android & Web Development.
 - 🔭 Research Interests : Deep Learning , AGI and Human-Robot Collaboration

@@ -33,7 +33,9 @@
 
 ##
 
-## 🛠  Technologies and Tools I use
+<div align="center">
+  <h3> 🛠  Technologies and Tools I use  </h3>
+</div>
 
 <!---This keeps the images aligned side to side-->
 [tech_tools_anchor]: #--
@@ -65,16 +67,20 @@
   
 <!---------------------------Table Ends from here --------------------------->
 
-## 📊 Lets talk stat's
+
+<div align="center">
+  <h2> 📊 Lets talk stat's </h2>
+</div>
+
 
 <!-- Refer - https://github.com/Ashutosh00710/github-readme-activity-graph -->
 ![Deepesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepeshdm&theme=react-dark&area=true&color=ffffff)
 
+<div align="center">
 <a href="https://github.com/deepeshdm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshdm&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=5bcdec&bg_color=0d1117" alt="Deepesh's GitHub Stats" width="57%" />
 </a>
-
-
+</div>
 
 
 <h6>Disclaimer : The Images and Gifs used belong to their respective owners.</h6>

@@ -1,8 +1,22 @@
 # Hi, I'm Deepesh Mhatre 👨‍💻
 
+<p align="left">
+<a href="https://twitter.com/deepeshmhatredm" target="blank">
+  <img  width="40" height="40" align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="deepeshmhatredm" />
+  </a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[deepeshmhatre133@gmail.com]" target="blank">
+  <img width="40" height="40" align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="deepeshmhatredm" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/deepeshdm/" target="blank">
+  <img  width="40" height="40" align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&lines=Full+Stack+Data+Scientist;Full+Stack+Web+Developer;Open+Source+Enthusiast;Nice+to+meet+you+!)](https://git.io/typing-svg)
+</br>
 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&lines=Full+Stack+Data+Scientist;Full+Stack+Web+Developer;Open+Source+Enthusiast;Nice+to+meet+you+!)](https://git.io/typing-svg)
 - 💻 Full Stack Data Scientist
 - 🏳 Skilled in Machine Learning,Big Data,Android & Web Development.
 - 🔭 Research Interests : Deep Learning , AGI and Human-Robot Collaboration
@@ -50,7 +64,7 @@
   
 <!---------------------------Table Ends from here --------------------------->
 
-## 📊 Lets talk stats
+## 📊 Lets talk stat's
 
 <!-- Refer - https://github.com/Ashutosh00710/github-readme-activity-graph -->
 ![Deepesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepeshdm&theme=react-dark&area=true&color=ffffff)
@@ -60,20 +74,6 @@
 </a>
 
 
-## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" width="8%"/>
-<p align="left">
-<a href="https://twitter.com/deepeshmhatredm" target="blank">
-  <img  width="50" height="50" align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="deepeshmhatredm" />
-  </a>
-  &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[deepeshmhatre133@gmail.com]" target="blank">
-  <img width="50" height="50" align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="deepeshmhatredm" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/deepeshdm/" target="blank">
-  <img  width="50" height="50" align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
-  </a>
-</p>
 
 
 <h6>Disclaimer : The Images and Gifs used belong to their respective owners.</h6>

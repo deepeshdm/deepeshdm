@@ -2,15 +2,15 @@
 
 <p align="left">
 <a href="https://twitter.com/deepeshmhatredm" target="blank">
-  <img  width="40" height="40" align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="deepeshmhatredm" />
+  <img  width="35" height="35" align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="deepeshmhatredm" />
   </a>
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[deepeshmhatre133@gmail.com]" target="blank">
-  <img width="40" height="40" align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="deepeshmhatredm" />
+  <img width="35" height="35" align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="deepeshmhatredm" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/deepeshdm/" target="blank">
-  <img  width="40" height="40" align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
+  <img  width="35" height="35" align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
   </a>
 </p>
 

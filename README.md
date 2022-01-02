@@ -23,6 +23,8 @@
 
 <!---------------------------Table Starts from here --------------------------->
 
+<div align="center">
+
 | Skill | Technologies| 
 |---|---|
 | Programming Languages | [<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=94bbe9" alt="Java logo" title="Java" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=766DB2" alt="Kotlin logo" title="Kotlin" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="27" />][tech_tools_anchor] <br> [<img src="https://img.shields.io/badge/Javascript-282C34?logo=Javascript&logoColor=F7DF1E" alt="JS logo" title="JS" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/SQL-282C34?logo=&logoColor=4479A1" alt="SQL logo" title="SQL" height="27" />][tech_tools_anchor] |
@@ -41,6 +43,8 @@
 | Operating System | [<img src="https://img.shields.io/badge/Windows-282C34?logo=Windows&logoColor=0078D6" alt="Windows" title="Windows Logo" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Ubuntu-282C34?logo=Ubuntu&logoColor=E95420" alt="Ubuntu" title="Ubuntu Logo" height="27" />][tech_tools_anchor] |
 | Hardware | Tesla T4 from Google Colab |
 
+</div>  
+  
 <!---------------------------Table Ends from here --------------------------->
 
 ## 📊 Lets talk stats

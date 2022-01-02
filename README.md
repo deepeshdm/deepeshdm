@@ -16,7 +16,9 @@
 
 </br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=25&lines=Software+Engineer+from+India;Full+Stack+Web+Developer;and+Data+Scientist+;Open+Source+Enthusiat;Nice+to+meet+you...)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fuzzy+Bubbles&color=%235BCDEC&lines=A+programmer+from+India+%2C+I+am;skilled+in+Full+Stack+Data+Science+and+;Full+Stack+Web+Development+%2C+I+also;like+Open+Source+Projects;Feel+Free+to+Reach+out...)](https://git.io/typing-svg)
+
 
 - 💻 Full Stack Data Scientist
 - 🏳 Skilled in Machine Learning,Big Data,Android & Web Development.
@@ -83,14 +85,6 @@
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshdm&theme=react&ring=ffffff&fire=ffffff&text_color=ffffff&background=0d1117&border=ffffff" />
 </a>
 </p>
-
-
-<!-- <p align="left">
-<a href="https://github.com/deepeshdm">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshdm&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=5bcdec&bg_color=0d1117" alt="Deepesh's GitHub Stats" width="49%%" />
-<img width="49%%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshdm&theme=dark&hide_border=false&background=0D1117&border=DDDDDD" />
-</a>
-</p> -->
 
 
 

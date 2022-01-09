@@ -43,6 +43,8 @@
 
 <!---------------------------Table Starts from here --------------------------->
 
+<!-- Logos taken from https://simpleicons.org/ -->
+
 <div align="center">
 
 | Skill | Technologies| 

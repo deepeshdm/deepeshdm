@@ -76,7 +76,7 @@
 
 
 <!-- Refer - https://github.com/Ashutosh00710/github-readme-activity-graph -->
-![Deepesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepeshdm&theme=react-dark&area=true&color=ffffff)
+<!-- ![Deepesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepeshdm&theme=react-dark&area=true&color=ffffff) -->
 
 
 <p align="left">

@@ -19,11 +19,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fuzzy+Bubbles&color=%235BCDEC&lines=A+programmer+from+India+%2C+I+am;skilled+in+Full+Stack+Data+Science+and+;Full+Stack+Web+Development+%2C+I+also;like+Open+Source+Projects;Feel+Free+to+Reach+out...)](https://git.io/typing-svg)
 
-- 🤓 Self-taught Programmer
-- 👩‍💻 Skilled in Machine Learning,Full Stack Data Science & Web Development
-- 🔭 Research Interests : Deep Learning , AGI and Human-Robot Collaboration
-- 💡 Math and Physics Enthusiast 
-- 📃 You can find [my Resume](https://drive.google.com/file/d/1iwx4I-5DO1wUC4hDN3h3Rmho2esk5HoE/view?usp=sharing) here.
+<ul>
+  <li>🤓 Self-taught Programmer</li>
+  <li>👩‍💻 Skilled in Machine Learning,Full Stack Data Science & Web Development</li>
+  <li>🔭 Research Interests : Deep Learning , AGI and Human-Robot Collaboration</li>
+  <li>📃 You can find <a href="https://drive.google.com/file/d/1iwx4I-5DO1wUC4hDN3h3Rmho2esk5HoE/view?usp=sharing">my Resume</a> here.</li>
+</ul>
+
 
 ##
 

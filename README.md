@@ -16,8 +16,8 @@
 
 </br>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fuzzy+Bubbles&color=%235BCDEC&lines=A+programmer+from+India+%2C+I+am;skilled+in+Full+Stack+Data+Science+and+;Full+Stack+Web+Development+%2C+I+also;like+Open+Source+Projects;Feel+Free+to+Reach+out...)](https://git.io/typing-svg)
+<!-- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fuzzy+Bubbles&color=%235BCDEC&lines=A+programmer+from+India+%2C+I+am;skilled+in+Full+Stack+Data+Science+and+;Full+Stack+Web+Development+%2C+I+also;like+Open+Source+Projects;Feel+Free+to+Reach+out...)](https://git.io/typing-svg) -->
 
 <ul>
   <li>🤓 Self-taught Programmer</li> 

@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://twitter.com/deepeshmhatredm" target="blank">
-  <img  width="35" height="35" align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="deepeshmhatredm" /> 	&nbsp; 	&nbsp; 	&nbsp; <img width="530" align="right" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
+  <img  width="35" height="35" align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="deepeshmhatredm" />  <img width="530" align="right" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
   </a>
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[deepeshmhatre133@gmail.com]" target="blank">

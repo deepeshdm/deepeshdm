@@ -1,4 +1,4 @@
-# Hi, I'm Deepesh Mhatre 👨‍💻
+# Hi, I'm Deepesh Mhatre <img src="/Gifs/Hi.gif" width="40"/>
 
 <p align="left">
 <a href="https://twitter.com/deepeshmhatredm" target="blank">

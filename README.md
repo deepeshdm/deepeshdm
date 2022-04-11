@@ -23,22 +23,14 @@
   <li>📃 You can find <a href="https://drive.google.com/file/d/1iwx4I-5DO1wUC4hDN3h3Rmho2esk5HoE/view?usp=sharing">my Resume</a> here.</li>
 </ul>
 
-
-<ul>
-<li>
-  <p align="left"> 
-🚩My skills are wideranging spanning across multiple creative and technical disciplines. I absorb information like a sponge and 
-I am in constant pursuit of skills that can help develop me into a well rounded professional. 
-</p>
-</li>
-</uL>
-
-
 ##
 
 <div align="center">
   <h3> 🛠  Technologies and Tools I use  </h3>
 </div>
+
+🚩My skills are wideranging spanning across multiple creative and technical disciplines. I absorb information like a sponge and 
+I am in constant pursuit of skills that can help develop me into a well rounded professional. 
 
 <!---This keeps the images aligned side to side-->
 [tech_tools_anchor]: #--

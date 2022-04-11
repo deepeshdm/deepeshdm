@@ -11,7 +11,7 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/deepeshdm/" target="blank">
   <img  width="35" height="35" align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
-  </a>  <img width="410" align="right" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
+  </a>  <img width="480" align="right" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
 </p>
 
 </br>
@@ -23,14 +23,17 @@
   <li>📃 You can find <a href="https://drive.google.com/file/d/1iwx4I-5DO1wUC4hDN3h3Rmho2esk5HoE/view?usp=sharing">my Resume</a> here.</li>
 </ul>
 
+
+🚩My skills are wideranging spanning across multiple creative and technical disciplines. I absorb information like a sponge and 
+I am in constant pursuit of skills that can help develop me into a well rounded professional. 
+
+
 ##
 
 <div align="center">
   <h3> 🛠  Technologies and Tools I use  </h3>
 </div>
 
-🚩My skills are wideranging spanning across multiple creative and technical disciplines. I absorb information like a sponge and 
-I am in constant pursuit of skills that can help develop me into a well rounded professional. 
 
 <!---This keeps the images aligned side to side-->
 [tech_tools_anchor]: #--

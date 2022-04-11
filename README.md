@@ -24,10 +24,14 @@
 </ul>
 
 
-<p align="left"> 
+<ul>
+<li>
+  <p align="left"> 
 🚩My skills are wideranging spanning across multiple creative and technical disciplines. I absorb information like a sponge and 
 I am in constant pursuit of skills that can help develop me into a well rounded professional. 
 </p>
+</li>
+</uL>
 
 
 ##

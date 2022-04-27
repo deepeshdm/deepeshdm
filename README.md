@@ -11,7 +11,7 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/deepeshdm/" target="blank">
   <img  width="35" height="35" align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
-  </a>  <img width="480" align="right" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
+  </a>  <img width="460" align="right" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
 </p>
 
 </br>

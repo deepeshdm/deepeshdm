@@ -1,7 +1,6 @@
 # Hi, I'm Deepesh Mhatre <img src="/Gifs/Hi.gif" width="40"/>
 
-<div align="center">
-  <a href="https://twitter.com/deepeshmhatredm" target="blank">
+<a href="https://twitter.com/deepeshmhatredm" target="blank">
   <img  width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="deepeshmhatredm" /> 
   </a>
   &nbsp;
@@ -11,16 +10,18 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/deepeshdm/" target="blank">
   <img  width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
-  </a>
+</a>
 
-  <div>
-  🤓 Self-taught Programmer </br>
+
+<div align="center">
+<div> </br>
+  🤓 A Self-taught Programmer </br>
   👩‍💻 Skilled in Machine Learning, Data Science & Full Stack Web Development </br>
   🔭 Research Interests : Deep Learning , AGI and Human-Robot Collaboration </br>
   📃 You can find <a href="https://drive.google.com/file/d/1iwx4I-5DO1wUC4hDN3h3Rmho2esk5HoE/view?usp=sharing">my Resume</a> here.
   </div>
   </br>
-<img width="545" align="right" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
+<img width="525" align="right" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
 </div>
 
 

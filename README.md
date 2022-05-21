@@ -1,22 +1,23 @@
 # Hi, I'm Deepesh Mhatre <img src="/Gifs/Hi.gif" width="40"/>
 
 <p align="left">
-<a href="https://twitter.com/deepeshmhatredm" target="blank">
-  <img  width="35" height="35" align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="deepeshmhatredm" /> 
+
+</p>
+
+<div align="center">
+  <a href="https://twitter.com/deepeshmhatredm" target="blank">
+  <img  width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="deepeshmhatredm" /> 
   </a>
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[deepeshmhatre133@gmail.com]" target="blank">
-  <img width="35" height="35" align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="deepeshmhatredm" />
+  <img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="deepeshmhatredm" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/deepeshdm/" target="blank">
-  <img  width="35" height="35" align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
+  <img  width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
   </a> 
-  <img width="445" align="right" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
-</p>
-
-</br>
-</br>
+<img width="445" align="right" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
+</div>
 
 <ul>
   <li>🤓 Self-taught Programmer</li> 

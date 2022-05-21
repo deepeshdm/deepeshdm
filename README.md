@@ -21,7 +21,7 @@
   📃 You can find <a href="https://drive.google.com/file/d/1iwx4I-5DO1wUC4hDN3h3Rmho2esk5HoE/view?usp=sharing">my Resume</a> here.
   </div>
   </br>
-<img width="525" align="right" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
+<img width="475" align="right" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
 </div>
 
 

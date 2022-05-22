@@ -14,7 +14,7 @@
 
 
 <div align="center">
-<div> </br> <b>
+<div> <b>
   <h3> 🤓 A Self-taught Programmer </br>
   👩‍💻 Skilled in Machine Learning, Data Science & Full Stack Web Development </br>
   🔭 Research Interests : Deep Learning , AGI and Human-Robot Collaboration </br>
@@ -25,7 +25,7 @@
 <img width="475" align="right" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
 </div>
 
-
+#
 <div align="center">
   <h3> 🛠  Technologies and Tools I use  </h3>
 </div>

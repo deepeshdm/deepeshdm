@@ -1,0 +1,28 @@
+import java.util.Scanner;
+import javax.xml.bind.DatatypeConverter;
+import java.security.MessageDigest;
+public class MD5 {
+    public static void main(String[] args) {
+        Scanner sn=new Scanner(System.in);
+        System.out.print("Please Enter Data for which MD5 is required:");
+        String data=sn.nextLine();
+        MD5 md=new MD5();
+        String hash=md.getMD5Hash(data);
+        System.out.println("The MD5 (hexadecimalencoded)hash is:"+hash);
+    }
+    private String getMD5Hash(String data){
+        String result=null;
+        try{
+            MessageDigest digest=MessageDigest.getInstance("MD5");
+            byte[] hash=digest.digest(data.getBytes("UTF-8"));
+            return bytesToHex(hash);
+        }
+        catch(Exception ex){
+            ex.printStackTrace();
+        }
+        return result;
+    }
+    private String bytesToHex(byte[] hash){
+        return DatatypeConverter.printHexBinary(hash);
+    }
+}

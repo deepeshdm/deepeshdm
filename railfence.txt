@@ -1,0 +1,19 @@
+import java.io.*;
+public class Railfence {
+    public static void main(String[] args)throws IOException {
+        String pt,ct="";
+        pt="TYCSBNB";
+        String even="",odd="";
+        for(int i=0;i<pt.length();i++){
+            if(i%2==0){ 
+                even=even+pt.charAt(i);
+            }
+            else{
+                odd=odd+pt.charAt(i);
+            }
+            ct=even+odd;
+        }
+        System.out.println("Plain Text:" +pt);
+        System.out.println("Cipher Text:" +ct);
+    }
+}

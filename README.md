@@ -19,7 +19,7 @@
 <div align="center">
 <div>
   <h3> 🤓 A Self-taught Programmer </br>
-  👩‍💻 Skilled in Machine Learning, Data Science & Full Stack Web Development </br>
+  👩‍💻 Skilled in Full Stack Web Development, Machine Learning & Kubernetes </br>
   🔭 Research Interests : Deep Learning , AGI and Human-Robot Collaboration </br>
    📃 You can find <a href="">my Resume</a> here. </h3>
   </div>

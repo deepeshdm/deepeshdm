@@ -11,11 +11,6 @@
   <a href="https://www.linkedin.com/in/deepeshdm/" target="blank">
   <img  width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
 </a>
-  &nbsp;
-  <a href="https://www.fiverr.com/deepesh_mhatre?up_rollout=true" target="blank">
-  <img  width="39" height="39" align="left" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="deepeshmhatredm" />
-</a>
-  </span>
 </div>
 
 

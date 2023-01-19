@@ -22,7 +22,7 @@
   🔭 Research Interests : Deep Learning , AGI and Human-Robot Collaboration </br>
    📃 You can find <a href="https://drive.google.com/file/d/1KmD9Cajmfyx9-35xpGzxnFd/view?usp=share_link">my Resume</a> here. </h3>
   </div>
-<img width="475" align="center" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
+<img width="525" align="center" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
 </div>
 
 <div align="center">
@@ -64,15 +64,8 @@
 </div>
 
 
-<!-- Refer - https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<!-- ![Deepesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepeshdm&theme=react-dark&area=true&color=ffffff) -->
-
-
-<p align="left">
-<a href="https://abhigyantrips.dev/">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=deepeshdm&show_icons=true&theme=react&title_color=ffffff&text_color=c9cacc&icon_color=5bcdec&bg_color=0d1117" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshdm&theme=react&ring=ffffff&fire=ffffff&text_color=ffffff&background=0d1117&border=ffffff" />
-</a>
+<p align="center">
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshdm&theme=react&ring=ffffff&fire=ffffff&text_color=ffffff&background=0d1117&border=ffffff" />
 </p>
 
 

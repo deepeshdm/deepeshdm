@@ -19,7 +19,7 @@
   <h3> 🤓 A Self-taught Programmer </br>
   👩‍💻 Skilled in Full-stack Web Development, Machine Learning & Kubernetes </br>
   🔭 Research Interests : Deep Learning , AGI and Human-Robot Collaboration </br>
-   📃 You can find <a href="https://drive.google.com/file/d/1KmD9Cajmfyx9-35xp-uRRdjh6nGzxnFd/view?usp=share_link">my Resume</a> here. </h3>
+   📃 You can find <a href="https://drive.google.com/file/d/1Ww1l1Iaro6BAElxed6yVkcvB6JCiiqT4/view?usp=share_link">my Resume</a> here. </h3>
   </div>
 <img width="525" align="center" alt="Neural Network" src="/Gifs/FearlessBewitchedGrouper-size_restricted.gif" />
 </div>

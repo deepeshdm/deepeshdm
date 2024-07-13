@@ -10,10 +10,11 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/deepeshdm/" target="blank">
   <img  width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
+  </a>
   &nbsp;
   <a href="https://youtube.com/playlist?list=PL6Tv6kBP2K_WijNyXmN9b2HQ9sCn7mVwZ&si=o39wZtAdlKS8BW_A" target="blank">
   <img  width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="deepeshmhatredm" />
-</a>
+  </a>
 </div>
 
 
